@@ -3,8 +3,6 @@
   </h1>
 
 <!--
-**shibin-kurian/shibin-kurian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -37,6 +35,6 @@ Here are some ideas to get you started:
 
 
 <p>
-<a href="https://www.linkedin.com/in/lakshay-594721209/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Lakshay | LinkedIn" width="40px"/></a>
+<a href="https://www.linkedin.com/in/lakshaylk/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Lakshay | LinkedIn" width="40px"/></a>
 </p>
 
